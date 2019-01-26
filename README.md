@@ -20,3 +20,6 @@ The model was trained for 32 epochs and finished training with almost 100% train
 ### Evaludation of the results
 At first, 92% validation accuracy seemed to be way too optimistic as a first attempt. So, in order to evaludate the model. As a quick test, I searched for most recent tweets from both Hilary and Trump and used the trained RNN model to predict the text's author. Yet again, the model seemed to provide the correct labels for each of the tweets.
 What are some possible factors that could have influenced such high accuracy rate then? Firstly, Trump is known for his selected range of vocabulary such as "the wall", "great", "extremely", "tremendous" and etc. The stark difference between sets of vocabularies that Trump and Hilary use could have helped the RNN to easily make the distinction. Secondly, looking at the data, we can clearly see that Trump uses far more capitalization to emphasize his points compared to Hilary who barely uses them at all. This could have been another reason to why RNN had an easy time classifying author of the texts.
+
+For a full functioning example, please look at the Colab Note bok on:
+https://colab.research.google.com/drive/1cevfCUmqTPTF6Tqz84dctf65wi0kEzDb#scrollTo=ZqLV9jzmScPg
