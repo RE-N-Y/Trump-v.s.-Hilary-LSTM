@@ -23,3 +23,6 @@ What are some possible factors that could have influenced such high accuracy rat
 
 For a full functioning example, please look at the Colab Note bok on:
 https://drive.google.com/open?id=1cevfCUmqTPTF6Tqz84dctf65wi0kEzDb
+
+Or directly visit Jupyter notebook on this repository:
+https://github.com/RE-N-Y/Trump-v.s.-Hilary-LSTM/blob/master/Trump%20vs%20Hilary.ipynb
