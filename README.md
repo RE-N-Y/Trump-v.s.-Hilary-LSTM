@@ -22,4 +22,4 @@ At first, 92% validation accuracy seemed to be way too optimistic as a first att
 What are some possible factors that could have influenced such high accuracy rate then? Firstly, Trump is known for his selected range of vocabulary such as "the wall", "great", "extremely", "tremendous" and etc. The stark difference between sets of vocabularies that Trump and Hilary use could have helped the RNN to easily make the distinction. Secondly, looking at the data, we can clearly see that Trump uses far more capitalization to emphasize his points compared to Hilary who barely uses them at all. This could have been another reason to why RNN had an easy time classifying author of the texts.
 
 For a full functioning example, please look at the Colab Note bok on:
-https://colab.research.google.com/drive/1cevfCUmqTPTF6Tqz84dctf65wi0kEzDb#scrollTo=ZqLV9jzmScPg
+https://drive.google.com/open?id=1cevfCUmqTPTF6Tqz84dctf65wi0kEzDb
